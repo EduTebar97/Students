@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_home_black_24dp.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="@color/non_selector_color">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M12,20c1.11,0,2.09-.72,2.43-1.77l.03-.13v-6.4C16.53,11.44,18,9.62,18,7.5c0-2.98-2.24-5.44-5.11-5.44-.68,0-1.32.15-1.89.4C10.03,2.98,9.39,2.83,8.71,2.83,5.84,2.83,3.6,5.29,3.6,8.27c0,2.12,1.47,3.94,3.43,4.36v6.4l.03.13c.33,1.05,1.31,1.77,2.42,1.77zM12,22c-1.1,0-2-.9-2-2h4C14,21.1,13.1,22,12,22z" />
+</vector>
+
+
+    <!-- ic_notifications_black_24dp.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+android:width="24dp"
+android:height
